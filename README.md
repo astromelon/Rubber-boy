@@ -8,7 +8,7 @@ Unity3D로 만든 디펜스 슈팅 게임 '고무소년(영어제목: Rubber boy
    - 다가오는 적을 밀어서 시간안에 버티는 게임
    - 디자인은 카툰 스타일
 
-2. 현재 진행사항(2024-01-09)
+2. 현재 진행사항(2023-11-30)
    - 손가락으로 케릭터 이동
      
    [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/astromelon/Rubber-boy/assets/24911296/bf45fbec-7a30-4449-a7bf-0d0899072c35)
